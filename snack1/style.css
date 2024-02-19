@@ -1,0 +1,22 @@
+picture {
+    padding: 15px;
+}
+
+img {
+    height: 125px;
+    width: auto;
+}
+
+header {
+    height: 200px;
+    margin-bottom: 35px;
+}
+
+.style {
+    list-style-type: none;
+
+    padding: 15px;
+    margin: 5px;
+
+    border: 1px solid blue;
+}
